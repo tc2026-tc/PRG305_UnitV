@@ -4,3 +4,7 @@ __pycache__/
 *.pyc
 .vscode/
 ~$*.docx
+
+dist/
+build/
+*.spec
