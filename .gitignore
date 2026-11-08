@@ -1,0 +1,6 @@
+venv/
+venv_kivy313/
+__pycache__/
+*.pyc
+.vscode/
+~$*.docx
