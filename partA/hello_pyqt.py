@@ -4,7 +4,7 @@ from PyQt6.QtWidgets import QApplication, QWidget, QVBoxLayout, QLabel, QPushBut
 app = QApplication(sys.argv)
 
 window = QWidget()
-window.setWindowTitle("Hello PyQt6 - Tenzin Choden (29)")
+window.setWindowTitle("Hello PyQt6 - Rinchen Dema (20)")
 window.resize(300, 150)
 
 label = QLabel("Hello!")

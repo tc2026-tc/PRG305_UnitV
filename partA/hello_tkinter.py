@@ -1,7 +1,7 @@
 import tkinter as tk
 
 root = tk.Tk()
-root.title("Hello Tkinter - Tenzin Choden (29)")
+root.title("Hello Tkinter - Rinchen Dema (20")
 root.geometry("300x150")
 
 label = tk.Label(root, text="Hello!")

@@ -3,7 +3,7 @@ import sqlite3
 from contextlib import closing
 from pathlib import Path
 
-# Relative to this file, so it works on any computer (no hard-coded path)
+
 DB_PATH = Path(__file__).resolve().parent.parent / "students.db"
 
 # Five subjects per year. Marks are stored in mark1 ... mark5 in this order.

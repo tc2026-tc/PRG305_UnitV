@@ -8,7 +8,7 @@ from ui import MainWindow
 
 
 def main():
-    database.init_db()          # make sure the table exists
+    database.init_db()          # making sure the table exists
     app = QApplication(sys.argv)
 
     # Load the stylesheet (path is relative to this file, not hard-coded)

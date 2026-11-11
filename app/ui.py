@@ -12,7 +12,7 @@ from PyQt6.QtWidgets import (
 
 import database
 
-# Student details come from config.json so the code is the same for every user
+
 CONFIG_PATH = Path(__file__).resolve().parent.parent / "config.json"
 
 

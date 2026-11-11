@@ -9,7 +9,7 @@ Window.size = (400, 150)
 
 class HelloApp(App):
     def build(self):
-        self.title = "Hello Kivy - Tenzin Choden (29)"
+        self.title = "Hello Kivy - Rinchen Dema (20)"
         layout = BoxLayout(orientation="vertical", padding=10, spacing=10)
         self.label = Label(text="Hello!")
         button = Button(text="Click me")
